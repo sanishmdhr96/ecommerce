@@ -8,4 +8,23 @@
   border: 1px solid;
   height: 600px;
   width: 400px;
+  background-color:rgb(96, 90, 216) ;
+  
+}
+.discription h3{
+  color: rgb(25, 234, 102);
+}
+
+.discription p{
+  font: 1em sans-serif;
+}
+
+.button {
+  padding: 5px 9px;
+  border: 2px solid #2c2c2c;
+  background-color: #1a1a1a;
+  color: #ffffff;
+  font-size: 1.2rem;
+  cursor: pointer;
+  border-radius: 50px;
 }
